@@ -1,0 +1,26 @@
+dl,dt,dd{
+	margin:0;
+	padding:0;
+}
+h1{
+	text-align: center;
+}
+dl{
+	width:680px;
+	margin:0 auto 20px;
+}
+dt{
+	font-size:16px;
+	color:#fff;
+	background:#0D71FE;
+	padding:8px 12px;
+	border-radius:3px;
+	margin:0 0 2px;
+}
+dd{
+	font-size:14px;
+	color:#4d4d4d;
+	background-color:#ececec;
+	padding:10px 20px;
+	margin:0 0 2px;
+}
